@@ -14,3 +14,6 @@ As a data analyst, I was provided with sample player data, including metrics on 
 - Created a custom visual using a **Radar Chart** to compare player performance across multiple strength indicators (e.g., speed, endurance, agility).
 - Implemented drill-through functionality and dynamic filters to allow coaches to gain deeper insights into individual player performance.
 - Added custom tooltips to enhance the user experience and provide additional context on performance trends.
+
+
+![Real Estate Dashboard Screenshot](./SSP.png)
